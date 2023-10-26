@@ -1,5 +1,6 @@
-*Để lấy thông tin về chat id cá nhân (tự nói chuyện với bot), sử dụng @userinfobot / For personal chat id, use @userinfobot to get
-- Để lấy thông tin về chat id nhóm (nhiều người có thể dùng bot), làm theo các bước / For group chat id, follow these steps:
+* Tạo bot với @BotFather và lấy token
+* Để lấy thông tin về chat id cá nhân (tự nói chuyện với bot), sử dụng @userinfobot
+* Để lấy thông tin về chat id nhóm (nhiều người có thể dùng bot), làm theo các bước:
 1. Thêm bot vào group mới / Add bot to a new group
 2. Tag con bot nói 1 2 câu (@yourbot hello) / Say something mentioning the bot
 3. Dán đoạn sau đây vào trình duyệt (lưu ý nhập bot token) / Paste this url to your browser (with your bot token):
