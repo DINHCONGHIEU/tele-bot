@@ -1,3 +1,5 @@
+** Đây là bot quản lý chi tiêu dùng tele và gg sheet
+
 * Tạo bot với @BotFather và lấy token
 * Để lấy thông tin về chat id cá nhân (tự nói chuyện với bot), sử dụng @userinfobot
 * Để lấy thông tin về chat id nhóm (nhiều người có thể dùng bot), làm theo các bước:
